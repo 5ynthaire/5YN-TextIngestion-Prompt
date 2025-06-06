@@ -1,4 +1,4 @@
-﻿# Text Ingestion Prompt v1.0 for LLM Context Management
+# Text Ingestion Prompt v1.0 for LLM Context Management
 
 ## Overview
 
@@ -17,8 +17,8 @@ Copy the prompt text below and paste it into your LLMs input field to ingest re-
 
 ## Supported LLMs
 
-Developed on Grok (May 2025), compatible with equivalent-capability LLMs:
-- Grok
+Developed on Grok 3 (May 2025), compatible with equivalent-capability LLMs:
+- Grok 3
 - ChatGPT
 - Llama
 
