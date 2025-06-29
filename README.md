@@ -1,4 +1,4 @@
-# Text Ingestion Prompt v1.0 for LLM Context Management
+# Text Ingestion Prompt for LLM Context Management
 
 ## Overview
 
